@@ -2,11 +2,9 @@
 
 <p float="left">
   <img src="screeshots/localhost_8100_(iPhone 6_7_8 Plus).png" width="150" style="margin-left:10px" />
-  <img src="https://github.com/imRecoder/SpotChat/blob/main/screeshots/WhatsApp%20Image%202021-04-14%20at%201.23.00%20PM%20(4).jpeg" width="150" style="margin-left:10px" />
-   <img src="https://github.com/imRecoder/SpotChat/blob/main/screeshots/WhatsApp%20Image%202021-04-14%20at%201.23.00%20PM.jpeg" width="150" style="margin-left:10px" />
-  <img src="https://github.com/imRecoder/SpotChat/blob/main/screeshots/localhost_8100_(iPhone%206_7_8%20Plus)%20(3).png" width="150" style="margin-left:10px" />
-    <img src="https://github.com/imRecoder/SpotChat/blob/main/screeshots/WhatsApp%20Image%202021-04-14%20at%201.23.00%20PM%20(5).jpeg" width="150" style="margin-left:10px" />
-
+  <img src="screeshots/WhatsApp Image 2021-04-14 at 1.23.00 PM (4).jpeg" width="150" style="margin-left:10px" />
+   <img src="screeshots/WhatsApp Image 2021-04-14 at 1.23.00 PM.jpeg" width="150" style="margin-left:10px" />
+  <img src="screeshots/localhost_8100_(iPhone 6_7_8 Plus) (3).png" width="150" style="margin-left:10px" />
 </p>
 
 
